@@ -2,7 +2,7 @@
 
 ## 🌐 About me
 
-I'm Maciej, 24 years old student on PJATK
+I'm Maciej, 24 years old student on PJATK,
 Check out my full portfolio here: [Portfolio Demo](https://portfolio-bay-kappa-50.vercel.app/)
 
 - 🌐 **Web Technologies**: React, Tailwind CSS  
